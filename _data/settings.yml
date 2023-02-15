@@ -6,7 +6,7 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
-- {name: 'Pepper (1 year)', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', date: 'December 2022', office: 'Science Building 505', image: 'assets/img/pepper.jpg', url: 'graduate-student'}
+- {name: 'Pepper (1 year)', Canada', date: 'December 2022', image: 'assets/img/pepper.jpg', url: 'graduate-student'}
 
 courses:
 - {name: 'Macroeconomic Policy: Fiscal, Monetary and Finance', url: 'vector-calculus'}

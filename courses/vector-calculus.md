@@ -7,10 +7,10 @@ Please find the slides for each of the math camp topics. If you find any mistake
 
 #### Course Information
 
-[Course Outline](/courses/vector-calculus/syllabus_macropolicy.pdf)
+[Syllabus](/courses/vector-calculus/syllabus_macropolicy.pdf)
 
 #### Lecture Notes
 
 [Vector Autoregressions](/courses/vector-calculus/VAR_Spring2023.pdf)
 
-[Generalized Method of Moments (TBD)](/courses/vector-calculus/Sample_Lecture_Notes.pdf)
+[Generalized Method of Moments (TBD)]()

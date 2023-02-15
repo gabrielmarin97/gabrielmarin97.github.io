@@ -5,16 +5,16 @@ layout: default
 {{ content }}
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">Photos</h3>
-{% for photos in site.data.settings.photos %}
+{% for pic in site.data.settings.photos %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ photos.name }}</h5>
-    <p>Email: {{ photos.email }}</p>
-    <p>Phone: {{ photos.phone }}</p>
-    <p><a href="{{ site.github.url }}/photos/{{ photos.url }}">More info</a></p>
+    <h5>{{ pic.name }}</h5>
+    <p>Email: {{ pic.email }}</p>
+    <p>Phone: {{ pic.phone }}</p>
+    <p><a href="{{ site.github.url }}/photos/{{ pic.url }}">More info</a></p>
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ photos.image }}" alt="Photos" width="100%">
+    <img src="{{ site.github.url }}/{{ pic.image }}" alt="Photos" width="100%">
   </div>
 </div>
 {% endfor %}

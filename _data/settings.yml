@@ -11,8 +11,7 @@ photos:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 teaching:
-- {name: 'Vector Autoregressions', url: 'vector-autoregressions'}
-- {name: 'Generalized Method of Moments', url: 'gmm'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 
 social:
 - {icon: 'github', link: 'https://github.com/gabrielmarin97'}

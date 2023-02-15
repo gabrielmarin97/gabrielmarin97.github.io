@@ -7,7 +7,7 @@ Please find the slides for each of the math camp topics. If you find any mistake
 
 #### Course Information
 
-[Course Outline](/courses/vector-calculus/Sample_Course_Outline.pdf)
+[Course Outline](/courses/vector-calculus/syllabus_macropolicy.pdf)
 
 #### Lecture Notes
 

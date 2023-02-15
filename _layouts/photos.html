@@ -8,13 +8,13 @@ layout: default
 {% for person in site.data.settings.photos %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ person.name }}</h5>
-    <p>Email: {{ person.email }}</p>
-    <p>Phone: {{ person.phone }}</p>
-    <p><a href="{{ site.github.url }}/people/{{ person.url }}">More info</a></p>
+    <h5>{{ photos.name }}</h5>
+    <p>Email: {{ photos.email }}</p>
+    <p>Phone: {{ photos.phone }}</p>
+    <p><a href="{{ site.github.url }}/photos/{{ photos.url }}">More info</a></p>
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+    <img src="{{ site.github.url }}/{{ photos.image }}" alt="Contact" width="100%">
   </div>
 </div>
 {% endfor %}

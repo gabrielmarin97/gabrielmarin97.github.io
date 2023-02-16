@@ -18,7 +18,7 @@ people:
 - {name: 'Transformation', date: 'September 2021', image: 'assets/img/transformation.jpeg'}
 - {name: 'Peace', date: 'June 2021', image: 'assets/img/peace.jpeg'}
 - {name: 'Beyond', date: 'June 2021', image: 'assets/img/beyond.jpeg'}
-- {name: 'Asymmetric', date: 'June 2021', image: 'assets/img/asymmetry.jpeg'}
+- {name: 'Asymmetry', date: 'June 2021', image: 'assets/img/asymmetry.jpeg'}
 
 courses:
 - {name: 'Macroeconomic Policy: Fiscal, Monetary and Finance', url: 'vector-calculus'}

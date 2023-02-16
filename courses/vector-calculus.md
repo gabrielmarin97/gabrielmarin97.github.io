@@ -3,7 +3,7 @@ layout: page
 title: "Math Camp: Macroeconomic Policy. Fiscal, Monetary and Finance
 "
 ---
-Please find the slides for each of the math camp topics. If you find any mistakes or have any questions, please let me know at my contact email gmarinmunoz@iadb.org.
+Here you will find the slides for each of the math camp topics. If you see any mistakes or have any questions, please let me know at my contact email gmarinmunoz@iadb.org.
 
 #### Course Information
 

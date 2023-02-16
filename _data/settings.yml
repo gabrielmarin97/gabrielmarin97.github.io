@@ -6,7 +6,19 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
-- {name: 'Pepper (1 year)', Canada', date: 'December 2022', image: 'assets/img/pepper.jpg', url: 'graduate-student'}
+- {name: 'Pepper (1 year)', date: 'December 2022', image: 'assets/img/pepper.jpg'}
+- {name: 'Mia (4 years)', date: 'December 2022', image: 'assets/img/side_eye_mia.jpeg'}
+- {name: 'Family Restaurant', date: 'December 2022', image: 'assets/img/family_restaurant.jpeg'}
+- {name: 'Christmas Ginger', date: 'December 2022', image: 'assets/img/christmas_ginger.jpeg'}
+- {name: 'Austin Bridge', date: 'December 2022', image: 'assets/img/bridge_austin.jpeg'}
+- {name: 'Two Paths', date: 'November 2022', image: 'assets/img/where_to_go.jpeg'}
+- {name: 'Hike', date: 'November 2022', image: 'assets/img/hike_gtown.jpeg'}
+- {name: 'New Beginnings', date: 'October 2021', image: 'assets/img/new_beginnings.jpeg'}
+- {name: 'Porfirio (n.d.)', date: 'September 2021', image: 'assets/img/porfirio.jpeg'}
+- {name: 'Transformation', date: 'September 2021', image: 'assets/img/transformation.jpeg'}
+- {name: 'Peace', date: 'June 2021', image: 'assets/img/peace.jpeg'}
+- {name: 'Beyond', date: 'June 2021', image: 'assets/img/beyond.jpeg'}
+- {name: 'Asymmetric', date: 'June 2021', image: 'assets/img/asymmetry.jpeg'}
 
 courses:
 - {name: 'Macroeconomic Policy: Fiscal, Monetary and Finance', url: 'vector-calculus'}

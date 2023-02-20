@@ -6,6 +6,7 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
+- {name: 'Memories', date: 'February 2023', image: 'assets/img/memories.jpeg'}
 - {name: 'Pepper (1 year)', date: 'December 2022', image: 'assets/img/pepper.jpg'}
 - {name: 'Mia (4 years)', date: 'December 2022', image: 'assets/img/side_eye_mia.jpeg'}
 - {name: 'Family Restaurant', date: 'December 2022', image: 'assets/img/family_restaurant.jpeg'}

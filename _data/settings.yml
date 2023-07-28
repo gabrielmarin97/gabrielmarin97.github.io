@@ -6,6 +6,10 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 people:
+- {name: 'Calm', date: 'July 2023', image: 'assets/img/kayak.jpg'}
+- {name: 'Renewal', date: 'June 2023', image: 'assets/img/new_apt.jpeg'}
+- {name: 'Concrete Jungle', date: 'May 2023', image: 'assets/img/concrete_jungle.jpeg'}
+- {name: 'Blossom', date: 'March 2023', image: 'assets/img/blossom.jpeg'}
 - {name: 'Memories', date: 'February 2023', image: 'assets/img/memories.jpeg'}
 - {name: 'Pepper (1 year)', date: 'December 2022', image: 'assets/img/pepper.jpg'}
 - {name: 'Mia (4 years)', date: 'December 2022', image: 'assets/img/side_eye_mia.jpeg'}

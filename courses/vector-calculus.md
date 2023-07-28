@@ -13,8 +13,7 @@ Here you will find the slides for each of the math camp topics. These slides are
 
 [Vector Autoregressions](/courses/vector-calculus/VAR_Spring2023.pdf)
 
-[Generalized Method of Moments](/courses/stellar-structures/GMM_slides.pdf)
-- [Problem Set](/courses/stellar-structures/GMM_Problem_Set.pdf)
+[Generalized Method of Moments](/courses/stellar-structures/GMM_slides.pdf) [Problem Set](/courses/stellar-structures/GMM_Problem_Set.pdf)
 
 [Difference-in-Difference Estimation (TBD)]()
 

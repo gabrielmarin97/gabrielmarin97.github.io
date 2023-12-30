@@ -5,7 +5,7 @@ title: "Applied International Macroeconomics"
 
 #### Course Information
 
-[Course Outline](/courses/stellar-structures/Sample_Course_Outline.pdf)
+[Course Outline](/courses/aim/Syllabus_Advanced_International_Macroeconomics.pdf)
 
 #### Lecture Notes
 

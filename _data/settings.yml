@@ -27,6 +27,8 @@ people:
 
 courses:
 - {name: 'Macroeconomic Policy: Fiscal, Monetary and Finance', url: 'vector-calculus'}
+- {name: 'Applied International Macroeconomics', url: 'aim'}
+
 
 
 social:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Stellar Structures"
+title: "Applied International Macroeconomics"
 ---
 
 #### Course Information
@@ -11,17 +11,9 @@ title: "Stellar Structures"
 
 [Lecture 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
 
-[Lecture 2](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
 #### Homework
 
 [Homework 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
 
 #### Midterms
 

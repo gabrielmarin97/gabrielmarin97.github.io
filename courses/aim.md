@@ -5,7 +5,7 @@ title: "Applied International Macroeconomics"
 
 #### Course Information
 
-[Course Outline](/courses/aim/Syllabus_Advanced_International_Macroeconomics.pdf)
+[Syllabus](/courses/aim/Syllabus_Advanced_International_Macroeconomics.pdf)
 
 #### Lecture Notes
 

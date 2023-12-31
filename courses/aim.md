@@ -9,7 +9,7 @@ title: "Applied International Macroeconomics"
 
 #### Lecture Notes
 
-[Lecture 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
+[Lecture 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf) [Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Current_Acc_Cyclicality.R)
 
 #### Problem Sets
 

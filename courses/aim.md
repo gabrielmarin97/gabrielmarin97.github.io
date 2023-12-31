@@ -11,16 +11,6 @@ title: "Applied International Macroeconomics"
 
 [Lecture 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
 
-#### Homework
+#### Problem Sets
 
-[Homework 1](/courses/stellar-structures/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/stellar-structures/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/stellar-structures/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/stellar-structures/Sample_Exam.pdf)
+[PSET 1](/courses/aim/PSET1.pdf)

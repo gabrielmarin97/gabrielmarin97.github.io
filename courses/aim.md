@@ -15,7 +15,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 2: Introducing Investment to the Basic Model](/courses/aim/2_Including_Investment_to_the_Basic_Model.pdf) 
 
-[Code]()              [Data]()              [Reading](https://www.jstor.org/stable/2231790?seq=10)
+[Code]() $~~~~~~~~~~~$ [Data]() $~~~~~~~~~~~$ [Reading](https://www.jstor.org/stable/2231790?seq=10)
 
 #### Problem Sets
 

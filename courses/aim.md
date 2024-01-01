@@ -13,7 +13,7 @@ title: "Applied International Macroeconomics"
 
 [Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Current_Acc_Cyclicality.R) [Data](https://github.com/gabrielmarin97/AIM-Code/blob/main/Data/country_classifications.xlsx)
 
-[Lecture 2: Including Investment to the Basic Model](/courses/aim/2_Including_Investment_to_the_Basic_Model.pdf) 
+[Lecture 2: Introducing Investment to the Basic Model](/courses/aim/2_Including_Investment_to_the_Basic_Model.pdf) 
 
 [Code]() [Data]() [Reading](https://www.jstor.org/stable/2231790?seq=10)
 

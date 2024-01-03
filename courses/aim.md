@@ -19,7 +19,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 3: A Model of Financial Autarky](/courses/aim/3_A_Model_of_Financial_Autarky.pdf) 
 
-[Code]() [Reading]()
+[Reading 1](https://www.jstor.org/stable/2138673) [Reading 2](https://www.aeaweb.org/articles?id=10.1257/000282803321455377)
 
 
 #### Problem Sets

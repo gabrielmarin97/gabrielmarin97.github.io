@@ -17,6 +17,11 @@ title: "Applied International Macroeconomics"
 
 [Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Adding_Investment_to_Model.R) [Reading](https://www.jstor.org/stable/2231790?seq=10)
 
+[Lecture 3: A Model of Financial Autarky](/courses/aim/3_A_Model_of_Financial_Autarky.pdf) 
+
+[Code]() [Reading]()
+
+
 #### Problem Sets
 
 [PSET 1](/courses/aim/PSET1.pdf)

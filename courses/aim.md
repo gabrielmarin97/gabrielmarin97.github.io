@@ -15,7 +15,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 2: Introducing Investment to the Basic Model](/courses/aim/2_Introducing_Investment_to_the_Basic_Model.pdf) 
 
-[Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Adding_Investment_to_Model.R) [Reading](https://www.jstor.org/stable/2231790?seq=10)
+[Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Adding_Investment_to_Model.R) [Reading 1](https://www.jstor.org/stable/2231790?seq=10) [Reading 2](https://econpapers.repec.org/article/aeaaecrev/v_3a83_3ay_3a1993_3ai_3a3_3ap_3a416-36.htm)
 
 [Lecture 3: A Model of Financial Autarky](/courses/aim/3_A_Model_of_Financial_Autarky.pdf) 
 

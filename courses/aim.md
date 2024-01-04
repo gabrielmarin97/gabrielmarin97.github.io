@@ -24,4 +24,4 @@ title: "Applied International Macroeconomics"
 
 #### Problem Sets
 
-[PSET 1](/courses/aim/Problem_Set_1.pdf)
+[Problem Set 1](/courses/aim/Problem_Set_1.pdf)

@@ -23,7 +23,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 4: The Balance of Payments in Practice](/courses/aim/4_The_Balance_of_Payments_in_Practice.pdf) 
 
-[Code]()
+[Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/BoP_in_Practice.R)
 
 #### Problem Sets
 

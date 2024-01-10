@@ -26,8 +26,8 @@ people:
 - {name: 'Asymmetry', date: 'June 2021', image: 'assets/img/asymmetry.jpeg'}
 
 courses:
-- {name: 'Macroeconomic Policy: Fiscal, Monetary and Finance', url: 'vector-calculus'}
 - {name: 'Applied International Macroeconomics', url: 'aim'}
+- {name: 'Macroeconomic Policy: Fiscal, Monetary and Finance', url: 'vector-calculus'}
 
 
 

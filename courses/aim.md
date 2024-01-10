@@ -21,6 +21,8 @@ title: "Applied International Macroeconomics"
 
 [Reading 1](https://www.jstor.org/stable/2138673) [Reading 2](https://www.aeaweb.org/articles?id=10.1257/000282803321455377)
 
+[Lecture 4: The Balance of Payments in Practice](/courses/aim/4_The_Balance_of_Payments_in_Practice.pdf) 
+[Code]()
 
 #### Problem Sets
 

@@ -27,7 +27,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 5: Uncertainty in the Basic Model](/courses/aim/5_Uncertainty_in_the_Basic_Model.pdf) 
 
-[Code]() [Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603)
+[Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Uncertainty.R) [Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603)
 
 #### Problem Sets
 

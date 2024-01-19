@@ -25,6 +25,10 @@ title: "Applied International Macroeconomics"
 
 [Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/BoP_in_Practice.R)
 
+[Lecture 5: Uncertainty in the Basic Model](/courses/aim/5_Uncertainty_in_the_Basic_Model.pdf) 
+
+[Code]() [Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603)
+
 #### Problem Sets
 
 [Problem Set 1](/courses/aim/Problem_Set_1.pdf)

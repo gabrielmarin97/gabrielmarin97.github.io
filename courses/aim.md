@@ -29,6 +29,11 @@ title: "Applied International Macroeconomics"
 
 [Code](https://github.com/gabrielmarin97/AIM-Code/blob/main/Uncertainty.R) [Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603)
 
+[Lecture 6: Overborrowing and the Tobin Tax](/courses/aim/6_Overborrowing_and_the_Tobin_Tax.pdf) 
+
+[Reading]([https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html))
+
+
 #### Problem Sets
 
 [Problem Set 1](/courses/aim/Problem_Set_1.pdf)

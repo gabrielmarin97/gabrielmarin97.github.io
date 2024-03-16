@@ -31,7 +31,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 6: Overborrowing and the Tobin Tax](/courses/aim/6_Overborrowing_and_the_Tobin_Tax.pdf) 
 
-[Reading]([https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html))
+[Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html))
 
 
 #### Problem Sets

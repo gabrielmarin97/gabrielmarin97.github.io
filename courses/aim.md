@@ -33,7 +33,15 @@ title: "Applied International Macroeconomics"
 
 [Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html))
 
+[Lecture 7: Non-Tradable Goods](/courses/aim/7_Non_Tradable_Goods.pdf) 
 
 #### Problem Sets
 
 [Problem Set 1](/courses/aim/Problem_Set_1.pdf)
+
+[Problem Set 2](/courses/aim/Problem_Set_2.pdf)
+
+#### Final Project
+
+[Instructions](/courses/aim/Final_Project.pdf)
+

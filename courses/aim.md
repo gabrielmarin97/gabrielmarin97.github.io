@@ -37,7 +37,7 @@ title: "Applied International Macroeconomics"
 
 [Lecture 8: Two-Good Two-Sector Model and Relative Prices](/courses/aim/8_Two_Good_Two_Sector_Model.pdf) 
 
-[Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html))
+[Reading 1]([https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html)](https://ucema.edu.ar/publicaciones/download/volume1/calvo.pdf)) [Reading 2](https://www.aeaweb.org/articles?id=10.1257/000282806777211856)
 
 #### Problem Sets
 

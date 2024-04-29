@@ -35,6 +35,10 @@ title: "Applied International Macroeconomics"
 
 [Lecture 7: Non-Tradable Goods](/courses/aim/7_Non_Tradable_Goods.pdf) 
 
+[Lecture 8: Two-Good Two-Sector Model and Relative Prices](/courses/aim/8_Two_Good_Two_Sector_Model.pdf) 
+
+[Reading](https://www.aeaweb.org/articles?id=10.1257/000282802760015603](https://ideas.repec.org/p/pra/mprapa/8952.html))
+
 #### Problem Sets
 
 [Problem Set 1](/courses/aim/Problem_Set_1.pdf)

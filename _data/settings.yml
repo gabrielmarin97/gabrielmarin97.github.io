@@ -37,4 +37,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/gabrielmarin97/'}
 
 contact:
-- {name: 'Gabriel Marin', title: 'Research Fellow', department: 'Research Department', institution: 'Inter-American Development Bank', institution_address: '1300 New York Avenue NW, Washington, D.C.', email: 'gmarinmunoz@iadb.org', office: '1007SE', image: 'assets/img/IDB_afternoon.jpeg'}
+- {name: 'Gabriel Marin', title: 'Graduate Research Associate', department: 'Economics Department', institution: 'Arizona State University', institution_address: '501 E Orange St., Tempe, AZ 85281', email: 'gmarinmu@asu.edu', image: 'assets/img/IDB_afternoon.jpeg'}

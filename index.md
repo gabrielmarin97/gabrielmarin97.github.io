@@ -3,4 +3,10 @@ layout: home
 title: "Home"
 ---
 
-Hello! Welcome to my personal webpage. I am a Mexican economist with research interests in macroeconomics, mostly public, international finance, and the impact of automation/AI in the economy. I hold a bachelor's degree in Economics from Universidad Anahuac and a master's degree in International Economics and Finance from Johns Hopkins University. Previously, I worked as a research fellow in the Inter-American Development Bank. Currently, I am a Non-Resident Research Scholar at Anahuac University and I am a member of the Network on Welfare and Policy in Latin America and the Caribbean [WAPLAC](http://waplac.org/team/gabriel-marin). In this page you can see publications, slides for my macro-policy and applied international macroeconomics courses, and photos I take that I find fun. Should you have any inquiries regarding my research, courses, or just to chat about life, do not hesitate to contact me at gabriel.marinmu@anahuac.mx.
+Hello, and welcome to my personal webpage! I’m a Mexican economist with a passion for macroeconomics—particularly public and international finance, as well as labor economics. Much of my current work explores public finance, and the economic implications of automation and AI.
+
+I earned my bachelor’s degree in Economics from Universidad Anáhuac and my master’s in International Economics and Finance from Johns Hopkins University. I’ve had the opportunity to work as a research fellow at the Inter-American Development Bank, and I am currently a Non-Resident Research Scholar at Anáhuac University. I am also part of the Network on Welfare and Policy in Latin America and the Caribbean (WAPLAC).
+
+Here you’ll find my publications, course materials for macro-policy and applied international macroeconomics, as well as a collection of photos I enjoy taking on the side. If you’d like to connect—whether about research, teaching, or just to exchange ideas—I’d be happy to hear from you at gabriel.marinmu@anahuac.mx.
+
+⸻

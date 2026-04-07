@@ -2,11 +2,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Gabriel Marin Munoz">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ site.description }}">
+
+  <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="{{ site.github.url }}/assets/libs/bootstrap/bootstrap.min.css">
+
+  <!-- Font Awesome -->
   <script defer src="{{ site.github.url }}/assets/libs/fontawesome/all.min.js"></script>
+
+  <!-- Google Fonts - Inter -->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
+
+  <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="152x152" href="{{ site.github.url }}/assets/apple-icon-152x152.png">
   <link rel="shortcut icon" href="{{ site.github.url }}/assets/favicon.ico">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 </head>

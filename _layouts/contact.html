@@ -4,4 +4,22 @@ layout: default
 
 {{ content }}
 
-{% include contact.html %}
+<section class="contact-section">
+  <h2>Contact</h2>
+  {% for contact in site.data.settings.contact %}
+  <div class="contact-card">
+    <div class="home-container">
+      <div class="bio-column">
+        <h3>{{ contact.name }}</h3>
+        <p>{{ contact.title }} | {{ contact.department }}</p>
+        <p>{{ contact.institution }}</p>
+        <p>{{ contact.institution_address }}</p>
+        <p><strong>Email:</strong> <a href="mailto:{{ contact.email }}">{{ contact.email }}</a></p>
+      </div>
+      <div class="image-column">
+        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" class="profile-image">
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</section>

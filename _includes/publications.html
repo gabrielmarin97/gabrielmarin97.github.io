@@ -1,14 +1,58 @@
-<div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
+{% if site.data.publications %}
+  <section class="publications-section">
+    <h3 class="fw-bold border-bottom pb-3 mb-4">Research</h3>
+
+    {% if site.data.publications.published %}
+      <h4 class="category-header">Publications</h4>
+      <div class="publications-list">
+        {% for pub in site.data.publications.published %}
+          <div class="publication-item">
+            <div class="publication-title">
+              {% if pub.url and pub.url != "" %}
+                <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">"{{ pub.title }}"</a>
+              {% else %}
+                "{{ pub.title }}"
+              {% endif %}
+            </div>
+            <div class="publication-authors">{{ pub.authors }} ({{ pub.year }})</div>
+            {% if pub.journal %}
+              <div class="publication-journal">{{ pub.journal }}</div>
+            {% endif %}
+            {% if pub.abstract %}
+              <details class="publication-abstract">
+                <summary>Abstract</summary>
+                <p>{{ pub.abstract }}</p>
+              </details>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
     {% endif %}
-  </div>
-</div>
+
+    {% if site.data.publications.under_review %}
+      <h4 class="category-header">Working Papers</h4>
+      <div class="publications-list">
+        {% for pub in site.data.publications.under_review %}
+          <div class="publication-item">
+            <div class="publication-title">
+              {% if pub.url and pub.url != "" %}
+                <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">"{{ pub.title }}"</a>
+              {% else %}
+                "{{ pub.title }}"
+              {% endif %}
+            </div>
+            <div class="publication-authors">{{ pub.authors }} ({{ pub.year }})</div>
+            <div class="publication-status"><em>Under Review</em></div>
+            {% if pub.abstract %}
+              <details class="publication-abstract">
+                <summary>Abstract</summary>
+                <p>{{ pub.abstract }}</p>
+              </details>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </section>
+{% endif %}

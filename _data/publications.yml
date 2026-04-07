@@ -1,5 +1,5 @@
 published:
-  - authors: "Kotlikoff, L., Lagarda, G., & Marin, G."
+  - authors: "with Lawrence J. Kotlikoff and Guillermo Lagarda"
     year: 2025
     title: "A Personalized VAT with Capital Transfers: A Reform to Protect Low-Income Households in Mexico"
     journal: "International Tax and Public Finance"
@@ -7,19 +7,19 @@ published:
     url: "https://link.springer.com/article/10.1007/s10797-025-09881-0"
 
 under_review:
-  - authors: "Kotlikoff, L., Lagarda, G., & Marin, G."
+  - authors: "with Lawrence J. Kotlikoff and Guillermo Lagarda"
     year: 2026
     title: "Personalized Final Consumption Tax, Regressivity and Intergenerational Welfare"
     abstract: "This paper develops a theoretical and quantitative framework for a Personalized Final Consumption Tax (PFCT) that transforms a traditionally regressive consumption tax into a progressive and intergenerationally equitable instrument. Using an overlapping-generations model with two types of households, we show that personalizing a uniform consumption tax through targeted transfers can redistribute lifetime resources without distorting intertemporal choices. When the net marginal tax rate is constant over time, a PFCT alters lifetime budgets but not the intertemporal price of consumption, preserving efficiency in savings and investment decisions. Analytically, redistribution under a PFCT operates through income effects rather than efficiency-reducing wedges. Quantitatively, calibrated simulations show that the welfare consequences of a PFCT depend critically on how tax revenues are deployed. Lump-sum rebates (PFCT-T) generate front-loaded welfare gains for low-income households through contemporaneous consumption smoothing, while reallocating revenues toward capital transfers (PFCT-K) raises aggregate capital accumulation and induces general equilibrium price adjustments that shift redistribution toward future cohorts. As a result, welfare gains under PFCT-K are more gradual but substantially more persistent, even as aggregate capital and output remain close to their baseline levels. These findings highlight the PFCT as a transparent policy instrument that combines the revenue stability of consumption taxation with progressive and intergenerational redistribution, while preserving the core intertemporal efficiency properties of consumption-based tax systems."
     url: ""
 
-  - authors: "Lagarda, G., & Marin, G."
+  - authors: "with Guillermo Lagarda"
     year: 2026
     title: "The Informal Buffer: Routine-Biased Technological Change in Mexico's Dual Labor Market"
     abstract: "We study how labor market duality shapes adjustment to routine-biased technological change. Using worker-level microdata from Mexico's Encuesta Nacional de Ocupacion y Empleo (ENOE) for 2005-2019, we show that local labor markets with higher baseline routine exposure experience larger declines in formal routine employment. Worker-level transition estimates indicate that routine-exposed formal workers are more likely to move into informal employment. By absorbing displaced workers, informality may attenuate the wage losses that would otherwise fall on those remaining in formal routine occupations. We rationalize these patterns through a task-based model with segmented employment."
     url: ""
 
-  - authors: "Lagarda, G., Marin, G., & Verastegui, P."
+  - authors: "with Guillermo Lagarda and Paulina Verastegui"
     year: 2026
     title: "Who Owns the AI? Automation, Ownership, and Capital Formation"
     abstract: "How does the ownership of AI capital shape the macroeconomic effects of automation? In an overlapping-generations model, AI is productive capital that substitutes for labor. Automation lowers wages, but when workers own a sufficiently large share of AI capital, the resulting capital income offsets wage losses and sustains long-run capital accumulation. Below that threshold, automation lowers worker income, reduces saving, and weakens future capital accumulation. The distribution of claims over AI capital therefore shapes whether automation strengthens or weakens aggregate accumulation."

@@ -1,10 +1,34 @@
+published:
+  - authors: "Kotlikoff, L., Lagarda, G., & Marin, G."
+    year: 2025
+    title: "A Personalized VAT with Capital Transfers: A Reform to Protect Low-Income Households in Mexico"
+    journal: "International Tax and Public Finance"
+    abstract: "The value-added tax (VAT) stands as the prevailing global consumption tax; however, its reputation often leans towards regressive. In response, we introduce the concept of a personalized VAT (PVAT) harmonized with a distributional strategy, which we term PVAT with capital transfers. Our objectives are threefold: bolster revenue collection, institute progressivity, and dismantle the cycle of intergenerational reliance among low-income households. Using Mexico as our case study, a nation characterized by pro-poor special VAT regimes amounting to approximately 2.2% of GDP, we unveil findings suggesting that the PVAT alone can maintain fiscal neutrality or even elevate revenues by up to 0.83% of GDP, concurrently benefiting the most economically disadvantaged households. Furthermore, we conduct a comprehensive analysis of the broader equilibrium effects stemming from a PVAT and an array of distributional policies, including lump-sum and capital transfers, employing a tailored overlapping generations model calibrated specifically for Mexico. Our simulations reveal welfare enhancing and output growth results through a PVAT policy that includes capital transfers, thereby presenting a viable strategy for breaking intergenerational dependency."
+    url: "https://link.springer.com/article/10.1007/s10797-025-09881-0"
+
+under_review:
+  - authors: "Kotlikoff, L., Lagarda, G., & Marin, G."
+    year: 2026
+    title: "Personalized Final Consumption Tax, Regressivity and Intergenerational Welfare"
+    abstract: "This paper develops a theoretical and quantitative framework for a Personalized Final Consumption Tax (PFCT) that transforms a traditionally regressive consumption tax into a progressive and intergenerationally equitable instrument. Using an overlapping-generations model with two types of households, we show that personalizing a uniform consumption tax through targeted transfers can redistribute lifetime resources without distorting intertemporal choices. When the net marginal tax rate is constant over time, a PFCT alters lifetime budgets but not the intertemporal price of consumption, preserving efficiency in savings and investment decisions. Analytically, redistribution under a PFCT operates through income effects rather than efficiency-reducing wedges. Quantitatively, calibrated simulations show that the welfare consequences of a PFCT depend critically on how tax revenues are deployed. Lump-sum rebates (PFCT-T) generate front-loaded welfare gains for low-income households through contemporaneous consumption smoothing, while reallocating revenues toward capital transfers (PFCT-K) raises aggregate capital accumulation and induces general equilibrium price adjustments that shift redistribution toward future cohorts. As a result, welfare gains under PFCT-K are more gradual but substantially more persistent, even as aggregate capital and output remain close to their baseline levels. These findings highlight the PFCT as a transparent policy instrument that combines the revenue stability of consumption taxation with progressive and intergenerational redistribution, while preserving the core intertemporal efficiency properties of consumption-based tax systems."
+    url: ""
+
+  - authors: "Lagarda, G., & Marin, G."
+    year: 2026
+    title: "The Informal Buffer: Routine-Biased Technological Change in Mexico's Dual Labor Market"
+    abstract: "We study how labor market duality shapes adjustment to routine-biased technological change. Using worker-level microdata from Mexico's Encuesta Nacional de Ocupacion y Empleo (ENOE) for 2005-2019, we show that local labor markets with higher baseline routine exposure experience larger declines in formal routine employment. Worker-level transition estimates indicate that routine-exposed formal workers are more likely to move into informal employment. By absorbing displaced workers, informality may attenuate the wage losses that would otherwise fall on those remaining in formal routine occupations. We rationalize these patterns through a task-based model with segmented employment."
+    url: ""
+
+  - authors: "Lagarda, G., Marin, G., & Verastegui, P."
+    year: 2026
+    title: "Who Owns the AI? Automation, Ownership, and Capital Formation"
+    abstract: "How does the ownership of AI capital shape the macroeconomic effects of automation? In an overlapping-generations model, AI is productive capital that substitutes for labor. Automation lowers wages, but when workers own a sufficiently large share of AI capital, the resulting capital income offsets wage losses and sustains long-run capital accumulation. Below that threshold, automation lowers worker income, reduces saving, and weakens future capital accumulation. The distribution of claims over AI capital therefore shapes whether automation strengthens or weakens aggregate accumulation."
+    url: ""
+
 featured:
-- {name: 'A Personalized VAT with Capital Transfers: A Reform to Protect Low-Income Households in Mexico (First Version, February 10, 2023) (Accepted at International Tax and Public Finance), with Laurence J. Kotlikoff, and Guillermo Lagarda', url: 'https://publications.iadb.org/en/personalized-vat-capital-transfers-reform-protect-low-income-households-mexico'}
-- {name: 'Policy Note: "¿Salvar la economía o detener el coronavirus? Podemos hacer ambas."  (May 25, 2020), with Guillermo Lagarda', url: 'https://www.anahuac.mx/mexico/EscuelasyFacultades/economia/seminario-virtual-covid-crecimiento-y-bienestar'}
-- {name: 'Undergraduate Thesis: Enhancing Central Bank Decision Making with Machine Learning: An Application of Random Forest Regressions to Mexico (April 4, 2020), with Julio Delgadillo and Jürgen Von der Meden', url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074127'}
-
-
-index:
-- {name: 'A Personalized VAT with Capital Transfers: A Reform to Protect Low-Income Households in Mexico (First Version, February 10, 2023) (Accepted at International Tax and Public Finance), with Laurence J. Kotlikoff, and Guillermo Lagarda', url: 'https://publications.iadb.org/en/personalized-vat-capital-transfers-reform-protect-low-income-households-mexico'}
-- {name: 'Policy Note: "¿Salvar la economía o detener el coronavirus? Podemos hacer ambas."  (May 25, 2020), with Guillermo Lagarda', url: 'https://www.anahuac.mx/mexico/EscuelasyFacultades/economia/seminario-virtual-covid-crecimiento-y-bienestar'}
-- {name: 'Undergraduate Thesis: Enhancing Central Bank Decision Making with Machine Learning: An Application of Random Forest Regressions to Mexico (April 4, 2020), with Julio Delgadillo and Jürgen Von der Meden', url: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074127'}
+  - name: "Kotlikoff, L., Lagarda, G., & Marin, G. (2025), 'A Personalized VAT with Capital Transfers'. International Tax and Public Finance."
+    url: "https://link.springer.com/article/10.1007/s10797-025-09881-0"
+  - name: "Kotlikoff, L., Lagarda, G., & Marin, G. (2026), 'Personalized Final Consumption Tax, Regressivity and Intergenerational Welfare'"
+    url: ""
+  - name: "Lagarda, G., & Marin, G. (2026), 'The Informal Buffer: Routine-Biased Technological Change in Mexico's Dual Labor Market'"
+    url: ""

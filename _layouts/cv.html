@@ -4,41 +4,62 @@ layout: default
 
 {{ content }}
 
-<div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Education</h4>
+{% if site.data.cv.education %}
+  <section class="cv-section">
+    <h2>Education</h2>
+    {% for item in site.data.cv.education %}
+      <div class="cv-item">
+        <div class="cv-position-title">{{ item.title }}</div>
+        <div class="cv-position-meta">{{ item.description }}</div>
       </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.education %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if site.data.cv['professional-experience'] %}
+  <section class="cv-section">
+    <h2>Research Experience</h2>
+    {% for item in site.data.cv['professional-experience'] %}
+      <div class="cv-item">
+        <div class="cv-position-title">{{ item.title }}</div>
+        <div class="cv-position-meta">{{ item.description }}</div>
       </div>
-    </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Academic Experience</h4>
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if site.data.cv['academic-experience'] %}
+  <section class="cv-section">
+    <h2>Teaching Experience</h2>
+    {% for item in site.data.cv['academic-experience'] %}
+      <div class="cv-item">
+        <div class="cv-position-title">{{ item.title }}</div>
+        <div class="cv-position-meta">{{ item.description }}</div>
       </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.academic-experience %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if site.data.cv.skills %}
+  <section class="cv-section">
+    <h2>Skills</h2>
+    {% for skill in site.data.cv.skills %}
+      <div class="skill-box">
+        <div class="skill-title">{{ skill.title }}</div>
+        <div class="skill-description">{{ skill.description }}</div>
       </div>
-    </div>
-    <div class="row g-5 mb-5">
-      <div class="col-md-2">
-        <h4>Professional Experience</h4>
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if site.data.cv.awards %}
+  <section class="cv-section">
+    <h2>Awards & Honors</h2>
+    {% for award in site.data.cv.awards %}
+      <div class="award-item">
+        <div class="award-title">{{ award.title }}</div>
+        <div class="award-description">{{ award.description }}</div>
       </div>
-      <div class="col-md-10">
-        {% for section in site.data.cv.professional-experience %}
-          <p class="fw-bold">{{ section.title }}</p>
-          <p>{{ section.description }}</p>
-        {% endfor %}
-      </div>
-    </div>
-  </div>
-</div>
+    {% endfor %}
+  </section>
+{% endif %}

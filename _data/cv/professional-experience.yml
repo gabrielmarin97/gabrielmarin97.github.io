@@ -1,14 +1,17 @@
-- title: 'Non-Resident Research Scholar'
-  description: 'Anahuac University (2024 - Present)'
-  
-- title: 'Research Fellow'
-  description: 'Inter-American Development Bank (2022 - 2024)'
-  
-- title: 'Research Assistant'
-  description: 'Johns Hopkins University (2021-2022)'
+- title: "Non-Resident Research Scholar"
+  description: "Anahuac University (Aug 2024 - Present)"
 
-- title: 'Research Analyst'
-  description: 'Global Development Policy Center of Boston University (2019-2021)'
-  
-- title: 'Research Assistant'
-  description: 'Massachussets Institute of Technology - Initiative of the Digital Economy (2019-2020)'
+- title: "Research Fellow"
+  description: "Inter-American Development Bank (Jul 2022 - Jul 2024)"
+
+- title: "Graduate Research Assistant"
+  description: "Johns Hopkins University, SAIS (Jul 2021 - Jun 2022)"
+
+- title: "Research Assistant"
+  description: "MIT, Initiative on the Digital Economy (Sep 2019 - Jan 2020)"
+
+- title: "Research Assistant"
+  description: "Boston University, Global Development Policy Center (Jun 2019 - Jun 2021)"
+
+- title: "Undergraduate Research Assistant"
+  description: "Anahuac University (Jan 2019 - May 2019)"

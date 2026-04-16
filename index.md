@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-Hello, and welcome to my personal webpage! I'm a Mexican economist with a passion for macroeconomics—particularly public and international finance, as well as labor economics. Much of my current work explores public finance, and the economic implications of automation and AI.
+Hello, and welcome to my personal webpage! I'm a Mexican economist with research interests in macroeconomics, public economics and labor economics. Much of my current work explores public finance, and the economic implications of automation and AI.
 
 I earned my bachelor's degree in Economics from Universidad Anáhuac and my master's in International Economics and Finance from Johns Hopkins University. I've had the opportunity to work as a research fellow at the Inter-American Development Bank, and I am currently a Non-Resident Research Scholar at Anáhuac University. I am also part of the Network on Welfare and Policy in Latin America and the Caribbean [WAPLAC](http://waplac.org/team/gabriel-marin).
 

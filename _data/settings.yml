@@ -37,4 +37,4 @@ social:
  - {name: 'linkedin', url: 'https://www.linkedin.com/in/gabrielmarin97/'}
 
 contact:
- - {name: 'Gabriel Marin', title: 'Analyst', department: 'The Wharton School', institution: 'University of Pennsylvania', institution_address: '3733 Spruce Street, Philadelphia, PA 19104', email: 'gmarinmu@wharton.upenn.edu', image: 'assets/img/ASU_cactus.jpeg'}
+ - {name: 'Gabriel Marin', title: 'Analyst', department: 'The Wharton School', institution: 'University of Pennsylvania', institution_address: '3733 Spruce Street, Philadelphia, PA 19104', email: 'gmarinm@wharton.upenn.edu', image: 'assets/img/ASU_cactus.jpeg'}

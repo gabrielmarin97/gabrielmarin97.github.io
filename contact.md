@@ -24,6 +24,6 @@ I aim to respond to all inquiries within 2-3 business days.
 
 ## Affiliations
 
-- **Analyst**, Penn Wharton Budget Model
+- **Economist**, Penn Wharton Budget Model
 - **Non-Resident Research Scholar**, Anahuac University, Economics Department
 - **Member**, Network on Welfare and Policy in Latin America and the Caribbean (WAPLAC)
